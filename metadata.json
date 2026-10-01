@@ -1,0 +1,6 @@
+{
+  "name": "Greenvest Farms – Cultivating Wealth, Feeding Nations",
+  "description": "Greenvest Farms is a leading African agribusiness committed to modern, sustainable, and profitable farming, food security, and agricultural investment across Africa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
